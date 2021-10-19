@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-19T22:34:59.450Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="E_yK0UMXXpdmE1ztIWz_" version="15.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-19T22:36:04.147Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="cokqz2f5JSeRGAjnf5y-" version="15.5.6" type="github">
   <diagram name="Page-1" id="a7904f86-f2b4-8e86-fa97-74104820619b">
     <mxGraphModel dx="2037" dy="393" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#F4F1DE" math="0" shadow="0">
       <root>
@@ -28,10 +28,10 @@
         <mxCell id="hZx71IKOhUPCRJcw6M9n-10" value="(Strong)" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1890" y="20" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="hZx71IKOhUPCRJcw6M9n-18" value="Relationship" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="hZx71IKOhUPCRJcw6M9n-18" value="Relationship" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="380" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hZx71IKOhUPCRJcw6M9n-20" value="Department" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="hZx71IKOhUPCRJcw6M9n-20" value="Department" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="550" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hZx71IKOhUPCRJcw6M9n-24" value="n" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
@@ -40,7 +40,7 @@
         <mxCell id="hZx71IKOhUPCRJcw6M9n-29" value="1" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="630" y="40" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="hZx71IKOhUPCRJcw6M9n-11" value="Relationship" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="hZx71IKOhUPCRJcw6M9n-11" value="Relationship" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="190" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="24794b860abc3c2d-1" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;b&gt;Employees&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px ; text-decoration: underline&quot;&gt;&lt;b&gt;Employee_ID= KP&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px ; text-decoration: underline&quot;&gt;Employee_date_of_birth=&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px ; text-decoration: underline&quot;&gt;Employee_name=&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px ; text-decoration: underline&quot;&gt;Employee_gender=&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px ; text-decoration: underline&quot;&gt;Employee_salary=&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px ; text-decoration: underline&quot;&gt;Employee_hire_date=&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px ; text-decoration: underline&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px ; text-decoration: underline&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;rounded=1;sketch=1;" parent="1" vertex="1">
@@ -85,7 +85,7 @@
         <mxCell id="hZx71IKOhUPCRJcw6M9n-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="24794b860abc3c2d-1" target="24794b860abc3c2d-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hZx71IKOhUPCRJcw6M9n-55" value="Relationship" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="hZx71IKOhUPCRJcw6M9n-55" value="Relationship" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="200" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hZx71IKOhUPCRJcw6M9n-56" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERzeroToMany;endFill=1;rounded=0;exitX=1;exitY=0.867;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="24794b860abc3c2d-1">
@@ -106,7 +106,7 @@
             <mxPoint x="-100" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hZx71IKOhUPCRJcw6M9n-59" value="Relationship" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="hZx71IKOhUPCRJcw6M9n-59" value="Relationship" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="-110" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hZx71IKOhUPCRJcw6M9n-60" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERzeroToMany;endFill=1;rounded=0;entryX=-0.019;entryY=0.9;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="24794b860abc3c2d-23">
