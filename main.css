@@ -1,5 +1,5 @@
-header{
-    font-size: x-large;
+head{
+    font-size:xx-large;
     font-style: italic;
     font:bold
 }
@@ -34,7 +34,9 @@ tr:nth-child(even){
 
 img{
     
-    height:5px;
+    height: 50px;
+    width: 50px;
+
 }
 a:link{
     font-size: large;
@@ -45,7 +47,7 @@ header{
     position: fixed;
     width:100%;
     background: #fff;
-    
+
 }
 
 
